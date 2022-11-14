@@ -1,0 +1,75 @@
+tag,id,class,type,name,value,href
+form,aspnetForm,,,aspnetForm,,
+input,__LASTFOCUS,,hidden,__LASTFOCUS,,
+input,__EVENTTARGET,,hidden,__EVENTTARGET,,
+input,__EVENTARGUMENT,,hidden,__EVENTARGUMENT,,
+input,__VIEWSTATE,,hidden,__VIEWSTATE,/wEPDwUKMTQ2NTc5MjIzNg8WAh4GYWN0aXZlBQlub25BY3RpdmUWAmYPZBYCAgQPZBYGAgUPZBYCAgMPZBYCAgUPFgIeBXN0eWxlBQ1kaXNwbGF5Om5vbmU7ZAIJD2QWCgIBDxYCHgVjbGFzcwUJbW5fc2VsZWN0ZAIDDxYCHwIFC21uX3Vuc2VsZWN0ZAIHDxYCHwIFC21uX3Vuc2VsZWN0ZAIJDxYCHwIFC21uX3Vuc2VsZWN0ZAITDxYCHwIFC21uX3Vuc2VsZWN0ZAITD2QWAgIDD2QWDAIBDxYCHglpbm5lcmh0bWwFBjE4MDg5N2QCAw8WAh8DBQUyNDczMWQCBQ8WAh8DBQY0MDY1NTBkAgcPFgIfAwUGMzMwMTQ3ZAIJDxYCHwMFAThkAgsPFgIfAwUCMjlkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBR9jdGwwMCRpbmRleExvZ2luMiRjaGtSZW1lbWJlck1lBSBjdGwwMCRDUEhDb250YWluZXIkY2hrUmVtZW1iZXJNZdRAUZAEBjSAL1cpUCyYcm9wKKZ848LpK/rsRT8+LRb1,
+input,__VIEWSTATEGENERATOR,,hidden,__VIEWSTATEGENERATOR,C2EE9ABB,
+input,__EVENTVALIDATION,,hidden,__EVENTVALIDATION,/wEdABX6W1oZa0bqFrvUC6FljLED7e6YA6Q0MUfZkKOBcuWwrpdmr9WsHKln2oK5gOJfDRwbzlLI3/qbr0AhOTzLE/eHeebHhSSS8a6g5diVBFaZJtegA/6Vr6Xb4FugDj4lneNYIMdJFJsUFO+VXiGvW1OImZkuhCVUG4S5yArQyWsxgcAuqhPvomKLAi+5dhqq5sX9ZE7+cVfhwF7xpD1zUZMraFzgEmZNvVyzY7vHZ6l8h1zEXjyTRhBdBAvMoKvu3/g0Aat3/n+2SQdee/8cd4aK9oh8Tb99LdRSKUn7j3VWf6PApCdrMaG5vSQeZ5eh6HwUAntnZpHvh+WN4kEzqiWiJgpCbVICTDJAoNuuEctW+0JKRC8SfnWYZaVbyVS412HwTNgQQwcccGlwvoCMtJphu8CZYZbTOLiucpOptwN/TGPJflY3rnZc2ZF5X5P7OIcQBLxG4BWdY4Yi2pBfzTux3LVjpmAHPeFOwgIsnQaJzQ==,
+input,ctl00_BrowserChecker1,,hidden,ctl00$BrowserChecker1,1,
+div,ctl00_headerTop_signin1,grid_13 lh_3 pull_1,,,,
+a,ctl00_headerTop_Signindiv,float_left login popup-link-1,,,,
+span,ctl00_headerTop_Signin,color_red  ,,,,
+div,ctl00_headerTop_signout1,grid_18 pull_1 lh_3 disply_none,,,,
+span,ctl00_headerTop_username,float_left color_red ,,,,
+span,ctl00_headerTop_sp_point,float_left color_red ,,,,
+div,ctl00_headerTop_SignOutdiv,float_left,,,,
+a,ctl00_headerTop_lnkbtnSignout,signout,,,,"javascript:__doPostBack('ctl00$headerTop$lnkbtnSignout','')"
+div,social-icon-top,pull-right,,,,
+div,popup-box-1,popup-box,,,,
+div,ctl00_indexLogin2_LoginPanel,,,,,
+input,ctl00_indexLogin2_Button3,facebook_login_small  alpha omega,submit,ctl00$indexLogin2$Button3,,
+div,ctl00_indexLogin2_valsAll,common_validation_summary,,,,
+input,ctl00_indexLogin2_txtUserLogin,common_textbox,text,ctl00$indexLogin2$txtUserLogin,,
+span,ctl00_indexLogin2_rfvLoginId,,,,,
+input,ctl00_indexLogin2_txtPassword,common_textbox,password,ctl00$indexLogin2$txtPassword,,
+span,ctl00_indexLogin2_rfvPassword,,,,,
+span,ctl00_indexLogin2_lblEmailAlreadyExist,common_label,,,,
+input,ctl00_indexLogin2_chkRememberMe,,checkbox,ctl00$indexLogin2$chkRememberMe,on,
+a,ctl00_indexLogin2_hprlnkForgetPassword,lnkForgot,,,,https://www.testyou.in/ForgetPassword.aspx
+input,ctl00_indexLogin2_lnkbtnSiginIn,normal_btn grid_4 alpha omega,submit,ctl00$indexLogin2$lnkbtnSiginIn,Login,
+div,blackout,,,,,
+div,ctl00_CPHHeader_dvHome,mn_select,,,,
+div,ctl00_CPHHeader_dvTestCategory,mn_unselect,,,,
+a,ctl00_CPHHeader_HyperLink1,,,,,https://www.testyou.in/Test.aspx
+div,ctl00_CPHHeader_dvTestSeries,mn_unselect,,,,
+a,ctl00_CPHHeader_HyperLink5,,,,,http://testseries.testyou.in/
+div,ctl00_CPHHeader_dvPraiseAndPackage,mn_unselect,,,,
+a,ctl00_CPHHeader_HyperLink2,,,,,https://www.testyou.in/Pricing.aspx
+div,ctl00_CPHHeader_dvAboutUs,mn_unselect,,,,
+a,ctl00_CPHHeader_hpr4,,,,,https://www.testyou.in/AboutUs.aspx
+a,ctl00_CPHHeader_HyperLink4,,,,,https://www.testyou.in/AboutUs.aspx
+a,ctl00_CPHHeader_hyper2,,,,,https://www.testyou.in/Featured.aspx
+a,ctl00_CPHHeader_HyperLink3,,,,,https://www.testyou.in/ContactUs.aspx
+div,ctl00_CPHHeader_dvHowToUse,mn_unselect,,,,
+div,idSearchKey,search_wrapper,,,,
+div,ctl00_CPHHeader_he1_pnlheadersearch,,,,,
+div,ctl00_CPHHeader_he1_searchPanel,,,,,
+input,ctl00_CPHHeader_he1_txtSearch,searchtexbox_header,text,ctl00$CPHHeader$he1$txtSearch,Enter Search Text. . .,
+a,ctl00_CPHHeader_he1_lnkbtnSearch,searchbtn_header,,,,"javascript:__doPostBack('ctl00$CPHHeader$he1$lnkbtnSearch','')"
+input,ctl00_CPHHeader_he1_hd,,hidden,ctl00$CPHHeader$he1$hd,,
+div,ctl00_CPHHeader_he1_search_icon_new,,,,,
+span,ctl00_CPHContainer_lblOutput,,,,,
+img,ctl00_CPHContainer_imgLoader,,,,,
+div,ctl00_CPHContainer_pnl_login,,,,,
+div,ctl00_CPHContainer_valsAll,common_validation_summary,,,,
+input,ctl00_CPHContainer_txt,common_textbox,text,ctl00$CPHContainer$txtUserLogin,,
+span,ctl00_CPHContainer_rfvLoginId,,,,,
+input,ctl00_CPHContainer_txtPassword,common_textbox,password,ctl00$CPHContainer$txtPassword,,
+span,ctl00_CPHContainer_rfvPassword,,,,,
+span,ctl00_CPHContainer_lblEmailAlreadyExist,common_label,,,,
+input,ctl00_CPHContainer_chkRememberMe,,checkbox,ctl00$CPHContainer$chkRememberMe,on,
+a,ctl00_CPHContainer_hprlnkForgetPassword,lnkForgot,,,,https://www.testyou.in/ForgetPassword.aspx
+input,ctl00_CPHContainer_btnLoginn,normal_btn grid_4 alpha omega,submit,ctl00$CPHContainer$btnLoginn,Login,
+input,ctl00_CPHContainer_Button3,facebook_login_btn  alpha omega,submit,ctl00$CPHContainer$Button3,,
+a,ctl00_CPHFooter_FooterCompany_HyperLink1,,,,,https://www.testyou.in/Test.aspx
+a,ctl00_CPHFooter_FooterCompany_HyperLink2,,,,,https://www.testyou.in/AllCategoryTest.aspx
+label,ctl00_CPHFooter_currentState1_lblNOofUsers,,,,,
+label,ctl00_CPHFooter_currentState1_lblNoofTest,,,,,
+label,ctl00_CPHFooter_currentState1_lblNoofQBank,,,,,
+label,ctl00_CPHFooter_currentState1_lblNoofAttemps,,,,,
+label,ctl00_CPHFooter_currentState1_lblTodayUser,,,,,
+label,ctl00_CPHFooter_currentState1_lblOnlineUser,,,,,
+label,lbLatestYear,,,,,
+div,notificationbar,Sample1,,,,
+a,nbar_downArr,,,,,javascript:void(0);
